@@ -1,0 +1,78 @@
+/* navbar */
+.navbar ul{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+    .navbar ul li{
+        font-size: 0.8rem; 
+
+    }
+/* Home */
+#home{
+    height: 830px;
+    align-items: center;
+    justify-content: center;
+    /* Home Section */
+    #home{
+        display: flex;
+        flex-direction: column;
+        background-color: rgba(0, 0,0, 0.5);
+        height: 830px;
+        justify-content: center;
+        align-items: center;
+        color: white;
+    }
+}
+.headings{
+    font-size: 1.5rem;
+     section h1{
+    display: flex;
+    flex-direction: column;
+    top: 30%;
+    right: 20%;
+    text-align: right;
+
+}
+/* About */
+#pic img{
+    width: 350px;
+    height: 350px;
+}
+#intro h2{
+    font-size: 1.5rem;
+}
+#intro h3{
+    font-size: 1.0rem;
+    
+}
+/* Your Aim Section */
+#yourAim{
+    font-size: 1.6rem;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* Service section */
+.box{
+    flex-direction: column;
+    width: 305px;
+}
+
+/* Your Aim Section */
+.gallery img{
+    width: 320px;
+    height: 200px;
+    margin: 10px;}
+
+
+/* Contact  */
+.input{
+    width: 80%;
+    
+    }
+    #msg{
+        width: 65%;
+    }
+    #send{
+        width: 20%;

@@ -1,0 +1,66 @@
+/* navbar */
+
+.navbar ul li{
+    font-size: 0.7rem; 
+
+}
+/* Home */
+/*#home{
+    height: 830px;
+    align-items: center;
+    justify-content: center;
+    display: flex;*/
+}
+/* Home Section */
+/**/
+
+    
+    
+    }
+/* About  */
+#pic{
+    flex-direction: column;
+    align-items: center;
+}
+#pic img{
+    width: 360px;
+    height: 240px;
+}
+.heading h1{
+    font-size: 1.5rem;
+}
+#intro h2{
+    font-size: 1.3rem;
+}
+#intro h3{
+    font-size: 0.9rem;
+}
+
+    /* Your Aim Section */
+    #yourAim{
+        font-size: 1.5rem;
+        align-items: center;
+    justify-content: center;
+}
+/* Service section */
+.box{
+    flex-direction: column;
+    width: 305px;
+    align-items: center;
+    justify-content: center;
+}
+/* Your Aim Section */
+.gallery img{
+    width: 300px;
+    height: 180px;
+    margin: 15px;
+}
+
+    /* Home */
+#home{ 
+    justify-content: center;}
+    /* Home Section */
+    
+    .headings{
+        font-size: 1.3rem;
+    }
